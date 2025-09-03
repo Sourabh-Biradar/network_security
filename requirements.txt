@@ -1,0 +1,3 @@
+python-dotnet
+pandas
+numpy
