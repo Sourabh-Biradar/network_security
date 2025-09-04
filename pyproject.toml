@@ -14,6 +14,9 @@ authors = [
 dependencies = [
     "numpy",
     "pandas",
+    "pymongo>=4.0",
+    "python-dotenv",
+    "certifi"
 ]
 
 [tool.setuptools.packages.find]
