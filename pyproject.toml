@@ -16,7 +16,8 @@ dependencies = [
     "pandas",
     "pymongo>=4.0",
     "python-dotenv",
-    "certifi"
+    "certifi",
+    "scikit-learn"
 ]
 
 [tool.setuptools.packages.find]

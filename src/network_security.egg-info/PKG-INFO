@@ -8,3 +8,4 @@ Requires-Dist: pandas
 Requires-Dist: pymongo>=4.0
 Requires-Dist: python-dotenv
 Requires-Dist: certifi
+Requires-Dist: scikit-learn
